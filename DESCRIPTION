@@ -1,0 +1,12 @@
+Package: adaptnet
+Type: Package
+Title: Network Based Adaptive Assessment
+Version: 0.1.0
+Author: Sacha Epskamp
+Maintainer: Sacha Epskamp <mail@sachaepskamp.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Imports: IsingFit, IsingSampler, infotheo
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
